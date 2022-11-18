@@ -95,6 +95,7 @@ fig.update_layout(
 
 
 app = Dash(__name__)
+app.title = "Go Birds!"
 
 app.layout = html.Div(
     children=[
@@ -191,4 +192,4 @@ def update_output(value):
 
 
 if __name__ == "__main__":
-    app.run_server(debug=DEBUG)
+    app.run(host="0.0.0.0", port=8050, debug=DEBUG)
