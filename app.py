@@ -1,12 +1,13 @@
+import os
+
 import pandas as pd
-import plotly.express as px
 import plotly.graph_objs as go
 from dash import Dash, html, dcc, Output, Input
 from utils import get_data, get_comparison_figure
 
 # TODO - move to sys args
-WEEK = 10
-DEBUG = True
+WEEK = os.environ["WEEK"]
+DEBUG = os.environ["DEBUG"]
 
 phi2017 = get_data("phi", 2017)
 phi2022 = get_data("phi", 2022)
