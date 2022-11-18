@@ -1,0 +1,19 @@
+"Unnamed: 0_level_0, Week","Unnamed: 1_level_0, Day","Unnamed: 2_level_0, Date","Unnamed: 3_level_0, Unnamed: 3_level_1","Unnamed: 4_level_0, Unnamed: 4_level_1","Unnamed: 5_level_0, Unnamed: 5_level_1","Unnamed: 6_level_0, OT","Unnamed: 7_level_0, Rec","Unnamed: 8_level_0, Unnamed: 8_level_1","Unnamed: 9_level_0, Opp","Score, Tm","Score, Opp","Offense, 1stD","Offense, TotYd","Offense, PassY","Offense, RushY","Offense, TO","Defense, 1stD","Defense, TotYd","Defense, PassY","Defense, RushY","Defense, TO","Expected Points, Offense","Expected Points, Defense","Expected Points, Sp. Tms","team_abbrev, ","season, "
+1,Sun,September 11,1:00PM ET,boxscore,W,,1-0,@,Detroit Lions,38.0,35.0,27.0,455.0,239.0,216.0,,23.0,386.0,205.0,181.0,1.0,21.15,-15.67,-0.78,phi,2022
+2,Mon,September 19,8:30PM ET,boxscore,W,,2-0,,Minnesota Vikings,24.0,7.0,25.0,486.0,323.0,163.0,1.0,20.0,264.0,202.0,62.0,3.0,14.26,7.86,-7.37,phi,2022
+3,Sun,September 25,1:00PM ET,boxscore,W,,3-0,@,Washington Commanders,24.0,8.0,21.0,400.0,328.0,72.0,,20.0,240.0,153.0,87.0,1.0,9.65,18.29,-8.92,phi,2022
+4,Sun,October 2,1:00PM ET,boxscore,W,,4-0,,Jacksonville Jaguars,29.0,21.0,25.0,401.0,191.0,210.0,1.0,13.0,219.0,148.0,71.0,4.0,-0.18,11.06,-1.97,phi,2022
+5,Sun,October 9,4:25PM ET,boxscore,W,,5-0,@,Arizona Cardinals,20.0,17.0,24.0,357.0,218.0,139.0,,23.0,363.0,239.0,124.0,1.0,10.63,-12.33,5.16,phi,2022
+6,Sun,October 16,8:20PM ET,boxscore,W,,6-0,,Dallas Cowboys,26.0,17.0,22.0,268.0,132.0,136.0,,21.0,315.0,181.0,134.0,3.0,7.95,0.04,3.76,phi,2022
+7,,,,,,,,,Bye Week,,,,,,,,,,,,,,,,phi,2022
+8,Sun,October 30,1:00PM ET,boxscore,W,,7-0,,Pittsburgh Steelers,35.0,13.0,20.0,401.0,290.0,111.0,,21.0,302.0,158.0,144.0,2.0,23.31,4.96,-2.01,phi,2022
+9,Thu,November 3,8:15PM ET,boxscore,W,,8-0,@,Houston Texans,29.0,17.0,24.0,360.0,217.0,143.0,1.0,20.0,303.0,135.0,168.0,2.0,17.84,-1.89,-2.38,phi,2022
+10,Mon,November 14,8:15PM ET,boxscore,L,,8-1,,Washington Commanders,21.0,32.0,18.0,264.0,170.0,94.0,4.0,25.0,330.0,178.0,152.0,2.0,-1.89,-4.13,-5.98,phi,2022
+11,Sun,November 20,1:00PM ET,preview,,,,@,Indianapolis Colts,,,,,,,,,,,,,,,,phi,2022
+12,Sun,November 27,8:20PM ET,preview,,,,,Green Bay Packers,,,,,,,,,,,,,,,,phi,2022
+13,Sun,December 4,1:00PM ET,preview,,,,,Tennessee Titans,,,,,,,,,,,,,,,,phi,2022
+14,Sun,December 11,1:00PM ET,preview,,,,@,New York Giants,,,,,,,,,,,,,,,,phi,2022
+15,Sun,December 18,1:00PM ET,preview,,,,@,Chicago Bears,,,,,,,,,,,,,,,,phi,2022
+16,Sat,December 24,4:25PM ET,preview,,,,@,Dallas Cowboys,,,,,,,,,,,,,,,,phi,2022
+17,Sun,January 1,1:00PM ET,preview,,,,,New Orleans Saints,,,,,,,,,,,,,,,,phi,2022
+18,Sun,January 8,1:00PM ET,preview,,,,,New York Giants,,,,,,,,,,,,,,,,phi,2022
