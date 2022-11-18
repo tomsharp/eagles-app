@@ -6,7 +6,7 @@ from utils import get_data, get_comparison_figure
 
 # TODO - move to sys args
 WEEK = 10
-DEBUG = False
+DEBUG = True
 
 phi2017 = get_data("phi", 2017)
 phi2022 = get_data("phi", 2022)
@@ -100,7 +100,7 @@ app.title = "Go Birds!"
 app.layout = html.Div(
     children=[
         html.Div(
-            className="container-xxl",
+            className="container-sm",
             children=[
                 html.Div(
                     className="row bg-black text-white",
@@ -117,7 +117,7 @@ app.layout = html.Div(
                     className="row",
                     children=[
                         html.Div(
-                            className="col",
+                            className="col-lg",
                             children=[
                                 dcc.Graph(
                                     id="comparison-bar-graph",
